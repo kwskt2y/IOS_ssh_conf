@@ -26,7 +26,7 @@ send \"en\n\"
 
 expect \"Password:\"
 
-send \"m2vc_kgk.ble\n\"
+send \"enable\n\"
 
 expect \"\#\"
 
