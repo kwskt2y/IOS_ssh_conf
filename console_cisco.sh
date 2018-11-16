@@ -15,10 +15,10 @@ send \"\r\"
 
 
 expect \"Username:\"
-send \"netmgr\n\"
+send \"username\n\"
 expect \"Password:\"
 
-send \"m2vc_kgk\n\"
+send \"password\n\"
 
 expect \">\"
 
